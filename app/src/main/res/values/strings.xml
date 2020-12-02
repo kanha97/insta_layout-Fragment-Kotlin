@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Task YaarMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_greek">Home Greek</string>
+    <string name="insta">Instagram</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home"
+        android:id="@+id/frag_home"/>
+
+    <item android:title="Media"
+        android:icon="@drawable/media"
+        android:id="@+id/frag_media"/>
+
+    <item android:title="Post"
+    android:icon="@drawable/add"
+    android:id="@+id/frag_post"/>
+
+
+    <item android:title="Heart"
+    android:icon="@drawable/favo"
+    android:id="@+id/frag_love"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/frag_profile"/>
+
+</menu>
